@@ -40,5 +40,5 @@ I am focused on developing practical skills in cybersecurity, IT infrastructure,
 
 ## Connect With Me
 
-- LinkedIn: [Add LinkedIn URL]
-- Email: [Professional Email]
+- LinkedIn: [[(http://www.linkedin.com/in/anele-mayiga)]
+- Email: [anelemayiga0@gmail.com]
